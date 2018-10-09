@@ -26,4 +26,7 @@ CyanBlue	- For making the spiffy animation merger script located in the tools fo
 
 
 # Rules
-If you find this prefab helpful in anyway all I ask is just a simple credit somewhere or a "thanks buddy" message to Splinks#0325 over at Discord.
+If you find this prefab helpful in anyway all I ask is just a simple credit somewhere or a "thanks buddy" message to Splinks#0325 over at Discord. 
+
+Or if for some reason you feel like keeping me off ramen and putting me back onto a burger diet I have a paypal.
+paypal.me/splinks
