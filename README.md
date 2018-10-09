@@ -7,7 +7,15 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 
 
 # How to Use
-
+1. Extract the Prefab Folder and Meta file into the ASSETS folder
+2. Go to the tools folder and follow the steps on how to add the The IK Disabling to your dance
+3. Select your new Dance and check the following in the Inspector
+	- Loop Time (UNCHECKED unless you want it endless)
+	- Bake into Pose (ALL CHECKED)
+	- Based Upon (Original...and maybe feet on Y in some cases)
+2. Drop _DancePad Prefab into scene
+3. Add your dance animation to the 'CustomDance' Override Controller
+4. Bam! You're done
 
 
 
