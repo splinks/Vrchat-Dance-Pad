@@ -21,6 +21,7 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 
 # Credits
 Splinks 	- For spending 4 weeks to finding out that Final IK was togglable in animation -_- FML
+
 CyanBlue	- For making the spiffy animation merger script located in the tools folder
 
 
