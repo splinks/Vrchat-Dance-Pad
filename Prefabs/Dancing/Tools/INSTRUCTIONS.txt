@@ -3,10 +3,10 @@
 
 1) Pull IK_Disabler into the scene
 2) Select IK_Disabler and in the Inspector Tab go to 'Disable IK (Script)' 
-3) Place 'NewClip' into the Clip Slot.
-4) Place Dance .Anim Clip into 'Disable IK' Slot
+3) Place Dance .Anim Clip into 'Clip' Slot
+4) Place 'NewClip' into the 'Disable IK' Slot.
 5) Click DisableIK
-6) Congrats 'NewClip' now has a dance with IK disabled
+6) Congrats Dance .Anim Clip now has a dance with IK disabled
 7) You can now remove Bob The Disabler from the Hierarchy
 
 
