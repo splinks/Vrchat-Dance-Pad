@@ -3,7 +3,7 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 
 # Things to have imported before using
 1. VRCHAT VRCSDK
-2. FINAL IK (I used 1.6.1 but older versions should be fine)
+2. FINAL IK (I used 1.6.1 but newer versions should be fine)
 
 
 # How to Use
