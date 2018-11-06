@@ -1,8 +1,6 @@
 Version 2.0:
 Full Body Tracking Support
 
-Special thanks to ★Megumin★
-
 
 
 
@@ -31,6 +29,8 @@ An InStation pad that relys on Final IK to disable Fullbody tracking for dance a
 Splinks 	- For spending 4 weeks to find out that Final IK Components were togglable in animations -_- FML
 
 CyanBlue	- For making the spiffy animation merger script located in the tools folder
+
+★Megumin★	- For figuring out the FullBody Fix
 
 
 # Rules
