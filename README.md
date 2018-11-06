@@ -1,3 +1,11 @@
+Version 2.0:
+Full Body Tracking Support
+
+Special thanks to ★Megumin★
+
+
+
+
 # Vrchat-Dance-Pad
 An InStation pad that relys on Final IK to disable Fullbody tracking for dance animations
 
