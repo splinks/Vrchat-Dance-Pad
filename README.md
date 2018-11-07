@@ -30,7 +30,7 @@ Splinks 	- For spending 4 weeks to find out that Final IK Components were toggla
 
 CyanBlue	- For making the spiffy animation merger script located in the tools folder
 
-★Megumin★	- For figuring out the FullBody Fix
+★Megumin★	- For adding viseme fixes
 
 
 # Rules
